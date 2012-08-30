@@ -1,0 +1,6 @@
+
+v0.3 (eg) Custom meta box for social networking.
+
+v0.2 (eg) More on the post type. Custom taxonomy.
+
+v0.1 (eg) Initial plugin creation. Activate. Custom post type.
