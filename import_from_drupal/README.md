@@ -1,0 +1,1 @@
+This is a mishmash of code I put together to export things from our Drupal 6 site to WordPress. Currently, I think, just Story and Blog posts. Since the project this was part of was taken off the stove, none of this code was really cleaned up. If the project comes back on the stove, I'll be updating it. For now, use at your own risk.
